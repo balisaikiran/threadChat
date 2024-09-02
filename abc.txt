@@ -1,0 +1,1 @@
+i want to build a native app which can be used in android and ios together. and the idea is the ap should have a group and each message can be created into a thread and the thread can go long for that message as. well. so please help me create this
